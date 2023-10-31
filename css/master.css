@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+@font-face {
+    font-family:pacifico ;
+    src: url(../font/Pacifico-Regular.ttf);
+}
+@font-face {
+    font-family: inter;
+    src: url(../font/Inter-Regular.ttf);
+}
